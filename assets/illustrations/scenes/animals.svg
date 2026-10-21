@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 240">
+  <rect width="320" height="240" rx="28" fill="#FFF1E8"/>
+  <path d="M44 190c64-35 169-35 232 0v18H44z" fill="#9ED788"/>
+  <path d="M91 95 74 56l43 25m86 14 17-39-43 25" fill="#D58B58"/>
+  <ellipse cx="147" cy="119" rx="71" ry="58" fill="#EBA86E"/>
+  <circle cx="120" cy="109" r="7" fill="#49372F"/><circle cx="174" cy="109" r="7" fill="#49372F"/>
+  <ellipse cx="147" cy="136" rx="13" ry="9" fill="#49372F"/>
+  <path d="M147 144c-10 13-23 13-30 4m30-4c10 13 23 13 30 4" fill="none" stroke="#49372F" stroke-width="4" stroke-linecap="round"/>
+  <text x="160" y="225" text-anchor="middle" font-size="18" font-family="sans-serif" fill="#704B38">动物朋友</text>
+</svg>

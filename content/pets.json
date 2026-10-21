@@ -1,0 +1,82 @@
+[
+  {
+    "id": "turtle",
+    "name": "小舟龟",
+    "unlockIsland": 0,
+    "outfits": [
+      { "id": "default", "name": "原本模样", "price": 0 },
+      { "id": "sailor-hat", "name": "水手帽", "price": 40 },
+      { "id": "star-shell", "name": "星星壳", "price": 80 }
+    ]
+  },
+  {
+    "id": "rabbit",
+    "name": "跳跳兔",
+    "unlockIsland": 1,
+    "outfits": [
+      { "id": "default", "name": "原本模样", "price": 0 },
+      { "id": "carrot-pin", "name": "胡萝卜发卡", "price": 50 },
+      { "id": "cloud-cape", "name": "云朵披风", "price": 90 }
+    ]
+  },
+  {
+    "id": "panda",
+    "name": "团团熊猫",
+    "unlockIsland": 2,
+    "outfits": [
+      { "id": "default", "name": "原本模样", "price": 0 },
+      { "id": "bamboo-pack", "name": "竹叶背包", "price": 60 },
+      { "id": "scholar-hat", "name": "小小书生帽", "price": 100 }
+    ]
+  },
+  {
+    "id": "fox",
+    "name": "橘子狐",
+    "unlockIsland": 3,
+    "outfits": [
+      { "id": "default", "name": "原本模样", "price": 0 },
+      { "id": "leaf-scarf", "name": "树叶围巾", "price": 70 },
+      { "id": "moon-crown", "name": "月亮王冠", "price": 110 }
+    ]
+  },
+  {
+    "id": "deer",
+    "name": "点点鹿",
+    "unlockIsland": 4,
+    "outfits": [
+      { "id": "default", "name": "原本模样", "price": 0 },
+      { "id": "flower-wreath", "name": "花朵环", "price": 80 },
+      { "id": "rainbow-bell", "name": "彩虹铃", "price": 120 }
+    ]
+  },
+  {
+    "id": "otter",
+    "name": "泡泡獭",
+    "unlockIsland": 5,
+    "outfits": [
+      { "id": "default", "name": "原本模样", "price": 0 },
+      { "id": "shell-bag", "name": "贝壳包", "price": 90 },
+      { "id": "wave-cape", "name": "浪花披风", "price": 130 }
+    ]
+  },
+  {
+    "id": "owl",
+    "name": "知知猫头鹰",
+    "unlockIsland": 6,
+    "outfits": [
+      { "id": "default", "name": "原本模样", "price": 0 },
+      { "id": "round-glasses", "name": "圆圆眼镜", "price": 100 },
+      { "id": "book-satchel", "name": "故事书包", "price": 140 }
+    ]
+  },
+  {
+    "id": "dragon",
+    "name": "星星龙",
+    "unlockIsland": 7,
+    "outfits": [
+      { "id": "default", "name": "原本模样", "price": 0 },
+      { "id": "golden-horn", "name": "金色小角", "price": 120 },
+      { "id": "galaxy-cape", "name": "银河披风", "price": 160 }
+    ]
+  }
+]

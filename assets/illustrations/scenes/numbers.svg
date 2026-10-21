@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 240">
+  <rect width="320" height="240" rx="28" fill="#F0F6FF"/>
+  <rect x="42" y="50" width="70" height="112" rx="18" fill="#FF9C85" transform="rotate(-8 77 106)"/>
+  <rect x="125" y="36" width="70" height="126" rx="18" fill="#FFD66B"/>
+  <rect x="208" y="50" width="70" height="112" rx="18" fill="#7FC8B6" transform="rotate(8 243 106)"/>
+  <text x="77" y="126" text-anchor="middle" font-size="62" font-family="sans-serif" font-weight="700" fill="#FFF">一</text>
+  <text x="160" y="122" text-anchor="middle" font-size="62" font-family="sans-serif" font-weight="700" fill="#7A5823">二</text>
+  <text x="243" y="126" text-anchor="middle" font-size="62" font-family="sans-serif" font-weight="700" fill="#FFF">三</text>
+  <text x="160" y="214" text-anchor="middle" font-size="18" font-family="sans-serif" fill="#45617A">数字天地</text>
+</svg>

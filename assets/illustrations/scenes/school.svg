@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 240">
+  <rect width="320" height="240" rx="28" fill="#FFF7E9"/>
+  <path d="M41 74h108c17 0 30 8 37 22v96c-9-11-22-17-37-17H41zm238 0H171c-17 0-30 8-37 22v96c9-11 22-17 37-17h108z" fill="#FFF" stroke="#5B83B4" stroke-width="7" stroke-linejoin="round"/>
+  <path d="M65 103h65m-65 23h65m-65 23h48m94-46h-65m65 23h-65m65 23h-48" stroke="#A7BED8" stroke-width="7" stroke-linecap="round"/>
+  <path d="M160 64 218 39l58 25-58 25z" fill="#F09A77"/>
+  <text x="160" y="225" text-anchor="middle" font-size="18" font-family="sans-serif" fill="#4C6480">校园学习</text>
+</svg>

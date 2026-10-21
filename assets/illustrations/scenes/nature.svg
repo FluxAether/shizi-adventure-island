@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 240">
+  <rect width="320" height="240" rx="28" fill="#E5F7FF"/>
+  <circle cx="258" cy="55" r="28" fill="#FFD569"/>
+  <path d="M22 182 105 79l57 73 41-48 95 78z" fill="#83B98A"/>
+  <path d="m105 79 20 26-27 4z" fill="#F5FBFF"/>
+  <path d="M22 182h276v25H22z" fill="#63B7D2"/>
+  <path d="M178 66v108m-37-56c4-33 23-54 37-54s33 21 37 54c-19 14-55 14-74 0z" fill="#5AA86B"/>
+  <rect x="171" y="134" width="14" height="48" rx="5" fill="#885B3D"/>
+  <text x="160" y="225" text-anchor="middle" font-size="18" font-family="sans-serif" fill="#386577">自然万物</text>
+</svg>

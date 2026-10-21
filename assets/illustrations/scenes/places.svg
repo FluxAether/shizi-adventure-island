@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 240">
+  <rect width="320" height="240" rx="28" fill="#EAF5FF"/>
+  <path d="M18 193h284" stroke="#92C47C" stroke-width="27"/>
+  <path d="M98 192v-98h62v98m10 0V61h74v131M54 192v-66h36v66" fill="#8BA7D6"/>
+  <path d="M111 111h14m20 0h14m-48 24h14m20 0h14m25-55h15m19 0h15m-49 28h15m19 0h15m-49 28h15m19 0h15" stroke="#FFF4A8" stroke-width="9"/>
+  <path d="M22 178c70-32 167-32 276 0" fill="none" stroke="#F0B86A" stroke-width="13"/>
+  <text x="160" y="225" text-anchor="middle" font-size="18" font-family="sans-serif" fill="#435D7B">城市与远方</text>
+</svg>

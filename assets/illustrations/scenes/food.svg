@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 240">
+  <rect width="320" height="240" rx="28" fill="#FFF8DE"/>
+  <ellipse cx="160" cy="164" rx="103" ry="31" fill="#F1C26F"/>
+  <path d="M82 112h156c-6 48-31 68-78 68s-72-20-78-68z" fill="#FFF" stroke="#E38C68" stroke-width="7"/>
+  <path d="M107 112c10-30 28-21 36-43m18 43c7-31 26-23 32-49m-17 49c15-28 34-15 40-36" fill="none" stroke="#8BC48A" stroke-width="8" stroke-linecap="round"/>
+  <path d="M226 56 94 111m141-36L105 112" stroke="#9C6347" stroke-width="6" stroke-linecap="round"/>
+  <text x="160" y="225" text-anchor="middle" font-size="18" font-family="sans-serif" fill="#72502E">美味生活</text>
+</svg>

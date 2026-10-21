@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 240">
+  <rect width="320" height="240" rx="28" fill="#F2F0FF"/>
+  <circle cx="160" cy="74" r="34" fill="#FFC89B"/>
+  <path d="M118 177c4-49 18-73 42-73s38 24 42 73" fill="#7E8FE8"/>
+  <path d="M120 126 81 157m119-31 39 31" stroke="#FFC89B" stroke-width="17" stroke-linecap="round"/>
+  <path d="M134 177l-13 29m65-29 13 29" stroke="#5967B5" stroke-width="18" stroke-linecap="round"/>
+  <circle cx="148" cy="71" r="4" fill="#473E5B"/><circle cx="172" cy="71" r="4" fill="#473E5B"/>
+  <path d="M150 87c7 6 13 6 20 0" fill="none" stroke="#C56C63" stroke-width="3" stroke-linecap="round"/>
+  <text x="160" y="225" text-anchor="middle" font-size="18" font-family="sans-serif" fill="#514D7B">身体健康</text>
+</svg>

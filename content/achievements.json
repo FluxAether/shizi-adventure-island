@@ -1,0 +1,10 @@
+[
+  { "id": "first-ten", "title": "十字启航", "description": "掌握 10 个汉字", "stars": 10, "threshold": 10, "kind": "characters" },
+  { "id": "hundred-hanzi", "title": "百字小达人", "description": "掌握 100 个汉字", "stars": 30, "threshold": 100, "kind": "characters" },
+  { "id": "four-hundred-hanzi", "title": "半程探险家", "description": "掌握 400 个汉字", "stars": 80, "threshold": 400, "kind": "characters" },
+  { "id": "all-hanzi", "title": "汉字岛守护者", "description": "掌握全部 800 个汉字", "stars": 200, "threshold": 800, "kind": "characters" },
+  { "id": "star-collector", "title": "星星收藏家", "description": "累计获得 100 颗星", "stars": 25, "threshold": 100, "kind": "stars" },
+  { "id": "game-rookie", "title": "游戏小能手", "description": "完成 20 局汉字游戏", "stars": 20, "threshold": 20, "kind": "games" },
+  { "id": "island-explorer", "title": "群岛探险家", "description": "解锁全部 8 座岛", "stars": 100, "threshold": 8, "kind": "islands" },
+  { "id": "seven-day-streak", "title": "七日不间断", "description": "连续学习 7 天", "stars": 50, "threshold": 7, "kind": "streak" }
+]
